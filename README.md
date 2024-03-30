@@ -4,9 +4,9 @@
 This note taker application allows users to take and store notes. The program saves and retrieves note data from a JSON file using and Express.js back end.
 
 ## Screenshots of My Application
-- ![Screenshot_1](./assets/images/Screenshot_2024-03-29_172517.png)
-- ![Screenshot_2](./assets/images/Screenshot_2024-03-29_172532.png)
-- ![Screenshot_3](./assets/images/Screenshot_2024-03-29_172600.png)
+- ![Screenshot_1](./assets/images/Screenshot_(1).png)
+- ![Screenshot_2](./assets/images/Screenshot_(2).png)
+- ![Screenshot_3](./assets/images/Screenshot_(3).png)
 
 ## Link to Deployed Application
 
@@ -42,3 +42,5 @@ This project is licensed under ISC license.
 - Express.js
 - fs module
 - npm packages for generating unique IDs
+
+[def]: ./assets/images/Screenshot_(3).png
