@@ -33,6 +33,7 @@ Clone the starter code repository and create your own repository. The starter co
 We are open to receiving community contributions to improve this project. If you would like to contribute, create a fork in the repository on GitHub, make a new branch for your enhancement (git checkout -b ), make your changes and ensure that the code functionality is up to par, commit your changes with clear and concise messages (git commit -m "message of what you did"), push your changes to your fork (git push origin <feature/branch-name>) and submit a pull request to the main repository main branch (please provide a detailed description of your changes in the pull request and explain goal of contribution).
 
 ## License
+This project is licensed under ISC license.
 
 ## Acknowledgements
 - Express.js
